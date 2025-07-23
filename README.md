@@ -54,3 +54,7 @@ Open a new terminal and run:
 
 cd portfolio-dashboard
 npm run dev
+
+output
+<img width="1918" height="857" alt="image" src="https://github.com/user-attachments/assets/a1bdfa7a-51ad-4b21-8789-526ce35d7396" />
+
