@@ -41,7 +41,7 @@ const initialStocks = [
   { stock: "EASEMYTRIP.NS", purchasePrice: 1000, quantity: 10 },
 ];
 
-const getSectorForStock = (stock: string): string | null => {
+const getSectorForStock = (stock: string): string=> {
   const sectorMap: Record<string, string> = {
     "BAJFINANCE.NS": "Financial",
     "ICICIBANK.NS": "Financial",
