@@ -1,7 +1,7 @@
 export interface Stock {
   id?: number;
   stock: string;
-  sector: string ;
+  sector: string | null;
   purchasePrice: number;
   quantity: number;
   cmp: number;
