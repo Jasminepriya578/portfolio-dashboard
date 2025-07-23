@@ -14,4 +14,5 @@ export async function fetchStockData(symbol: string) {
     console.error('Error fetching stock data:', error);
     return { cmp: 0, peRatio: 0, latestEarnings: 'N/A' };
   }
+  
 }

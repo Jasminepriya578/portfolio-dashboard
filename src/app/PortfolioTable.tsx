@@ -70,7 +70,8 @@ const getSectorForStock = (stock: string): string | null => {
     "EASEMYTRIP.NS": "Tech",
   };
 
-  return sectorMap[stock] || null;
+
+  return sectorMap[stock] || "Unknown";
 };
 
 const getSectorIcon = (sector: string): string => {
