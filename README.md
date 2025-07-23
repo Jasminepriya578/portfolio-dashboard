@@ -57,4 +57,6 @@ npm run dev
 
 output
 <img width="1918" height="857" alt="image" src="https://github.com/user-attachments/assets/a1bdfa7a-51ad-4b21-8789-526ce35d7396" />
+<img width="1915" height="887" alt="image" src="https://github.com/user-attachments/assets/bc62870d-9a78-4c01-9ac6-d3e57ef79103" />
+
 
